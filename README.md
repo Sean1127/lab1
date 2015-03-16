@@ -1,7 +1,10 @@
 # lab1
 homework
 
-to compile:\n
+to compile:
+
 g++ -o qb qb.cpp
-to run:\n
+
+to run:
+
 ./qb
